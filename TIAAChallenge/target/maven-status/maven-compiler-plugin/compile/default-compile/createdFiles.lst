@@ -1,0 +1,15 @@
+org\tiaa\warehouse\Record.class
+org\tiaa\worker\Task.class
+org\tiaa\worker\Worker.class
+org\tiaa\worker\IWorker.class
+org\tiaa\rawmaterial\Bolts.class
+org\tiaa\warehouse\RegistryBook.class
+org\tiaa\warehouse\Warehouse.class
+org\tiaa\rawmaterial\Machine.class
+org\tiaa\worker\MachineWithBoltsTask.class
+org\tiaa\rawmaterial\RawMaterialRegistry.class
+org\tiaa\warehouse\Product.class
+org\tiaa\rawmaterial\RawMaterial.class
+org\tiaa\supervisor\ProductCriteria.class
+org\tiaa\warehouse\ProductCode.class
+org\tiaa\supervisor\Supervisor.class

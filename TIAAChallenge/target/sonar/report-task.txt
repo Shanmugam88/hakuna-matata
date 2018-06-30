@@ -1,0 +1,6 @@
+projectKey=org.tiaa:tiaa_challenge
+serverUrl=http://localhost:9000
+serverVersion=7.2.1.14109
+dashboardUrl=http://localhost:9000/dashboard?id=org.tiaa%3Atiaa_challenge
+ceTaskId=AWRSQX7nQ0yNZ6Pz78Pp
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWRSQX7nQ0yNZ6Pz78Pp
